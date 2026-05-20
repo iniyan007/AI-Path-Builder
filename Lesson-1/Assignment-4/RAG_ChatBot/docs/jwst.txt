@@ -1,0 +1,27 @@
+The James Webb Space Telescope (JWST)
+Launch and Journey to L2
+The James Webb Space Telescope (JWST) is the largest and most powerful space telescope ever built, designed primarily to conduct infrared astronomy. It was launched on December 25, 2021, aboard an Ariane 5 ECA+ rocket from the Guiana Space Centre in Kourou, French Guiana. Unlike its predecessor, the Hubble Space Telescope, which orbits Earth, JWST was sent to the second Sun-Earth Lagrange point (L2). This gravitationally stable spot is located approximately 1.5 million kilometers (930,000 miles) from Earth. Operating from L2 allows the telescope to stay in line with Earth as it moves around the Sun, while its massive sunshield protects its sensitive instruments from the heat and light of the Sun, Earth, and Moon.
+
+Engineering and Mirrors
+JWST’s primary mirror is 6.5 meters (21.3 feet) in diameter, significantly larger than Hubble’s 2.4-meter mirror. Because a mirror this large could not fit inside any existing rocket payload fairing, it was constructed using 18 hexagonal segments made of lightweight beryllium and coated with a microscopic layer of gold to optimize infrared reflectivity. The telescope had to be folded up for launch and underwent a complex, weeks-long deployment sequence in space. To function correctly, the telescope must be kept incredibly cold—under 50 Kelvin (-223°C or -370°F)—to prevent its own heat from interfering with the infrared signals it detects.
+
+Scientific Instruments
+The telescope’s science payload is housed in the Integrated Science Instrument Module (ISIM) and consists of four highly specialized instruments:
+
+NIRCam (Near-Infrared Camera): Built by the University of Arizona, this is JWST’s primary imager. It captures light from the earliest stars and galaxies in the process of formation.
+
+NIRSpec (Near-Infrared Spectrograph): Provided by the European Space Agency (ESA), it disperses light from an object into a spectrum. Its unique microshutter array allows it to observe 100 objects simultaneously.
+
+MIRI (Mid-Infrared Instrument): The only instrument covering the mid-infrared wavelength range (5 to 28 micrometers). It requires an additional mechanical cryocooler to keep its operating temperature at a frigid 7 Kelvin (-266°C).
+
+FGS/NIRISS (Fine Guidance Sensor and Near-Infrared Imager and Slitless Spectrograph): Provided by the Canadian Space Agency (CSA), it helps point the telescope precisely and is used to investigate exoplanets.
+
+The Artemis I Mission
+Mission Overview and Launch
+Artemis I was the inaugural uncrewed flight of NASA's Artemis program, designed to safely return humans to the Moon and establish a sustainable lunar presence. The mission served as the first integrated flight test of the Space Launch System (SLS) rocket and the Orion spacecraft. After several delays due to fuel leaks and tropical storms, Artemis I successfully launched on November 16, 2022, at 1:47 a.m. EST from Launch Complex 39B at the Kennedy Space Center in Florida. The SLS Block 1 configuration generated an immense 8.8 million pounds of thrust at liftoff.
+
+The Lunar Journey and Orbit
+Approximately two hours after liftoff, the Interim Cryogenic Propulsion Stage (ICPS) performed a trans-lunar injection (TLI) burn, sending the Orion capsule toward the Moon. During the outbound journey, the ICPS deployed ten CubeSats to conduct various scientific experiments. On November 21, 2022, Orion completed its first lunar flyby, coming within 130 kilometers (80 miles) of the lunar surface. It then entered a Distant Retrograde Orbit (DRO), a highly stable orbit traveling opposite to the Moon's rotation around Earth.
+
+Breaking Records and Splashdown
+While in the DRO, Orion broke the distance record for a human-rated spacecraft, reaching a maximum distance of 432,210 kilometers (268,563 miles) from Earth on November 26, surpassing the previous record set by Apollo 13. The spacecraft spent a total of 25.5 days in space. On December 11, 2022, Orion re-entered Earth's atmosphere at a speed of Mach 32 (24,581 mph), testing its newly designed heat shield at temperatures approaching 5,000°F. The capsule successfully splashed down in the Pacific Ocean off the coast of Baja California, completing its 1.4-million-mile journey and validating the systems required for the crewed Artemis II mission.
